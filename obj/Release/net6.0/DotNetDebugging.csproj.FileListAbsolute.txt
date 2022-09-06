@@ -1,0 +1,15 @@
+D:\0_valexproject\000_VS_Code\DotNetDebugging\bin\Release\net6.0\DotNetDebugging.exe
+D:\0_valexproject\000_VS_Code\DotNetDebugging\bin\Release\net6.0\DotNetDebugging.deps.json
+D:\0_valexproject\000_VS_Code\DotNetDebugging\bin\Release\net6.0\DotNetDebugging.runtimeconfig.json
+D:\0_valexproject\000_VS_Code\DotNetDebugging\bin\Release\net6.0\DotNetDebugging.dll
+D:\0_valexproject\000_VS_Code\DotNetDebugging\bin\Release\net6.0\DotNetDebugging.pdb
+D:\0_valexproject\000_VS_Code\DotNetDebugging\obj\Release\net6.0\DotNetDebugging.csproj.AssemblyReference.cache
+D:\0_valexproject\000_VS_Code\DotNetDebugging\obj\Release\net6.0\DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+D:\0_valexproject\000_VS_Code\DotNetDebugging\obj\Release\net6.0\DotNetDebugging.AssemblyInfoInputs.cache
+D:\0_valexproject\000_VS_Code\DotNetDebugging\obj\Release\net6.0\DotNetDebugging.AssemblyInfo.cs
+D:\0_valexproject\000_VS_Code\DotNetDebugging\obj\Release\net6.0\DotNetDebugging.csproj.CoreCompileInputs.cache
+D:\0_valexproject\000_VS_Code\DotNetDebugging\obj\Release\net6.0\DotNetDebugging.dll
+D:\0_valexproject\000_VS_Code\DotNetDebugging\obj\Release\net6.0\refint\DotNetDebugging.dll
+D:\0_valexproject\000_VS_Code\DotNetDebugging\obj\Release\net6.0\DotNetDebugging.pdb
+D:\0_valexproject\000_VS_Code\DotNetDebugging\obj\Release\net6.0\DotNetDebugging.genruntimeconfig.cache
+D:\0_valexproject\000_VS_Code\DotNetDebugging\obj\Release\net6.0\ref\DotNetDebugging.dll
